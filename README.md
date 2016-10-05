@@ -8,7 +8,7 @@ Este repositorio es una prueba del manejo básico de **Git** y **Github**.
 
 ### Desde una ventana terminal
 
-Para compilar el fichero HolaMundo.java ejecutamos la siguiente línea de comando (Es
+Para compilar el fichero `HolaMundo.java` ejecutamos la siguiente línea de comando (Es
 necesario tener instalado el *JDK*)
 
 ```console
